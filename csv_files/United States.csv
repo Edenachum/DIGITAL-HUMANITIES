@@ -1,0 +1,531 @@
+title,id,release_year,main_character_name,main_character_gender,country,main_character_role
+Star Wars,tt0076759,1977,Mark Hamill,Male,United States,knight
+The Sound of Music,tt0059742,1965,Julie Andrews,Female,United States,officer
+Jaws,tt0073195,1975,Roy Scheider,Male,United States,hooper
+Grease,tt0077631,1978,John Travolta,Male,United States,leader
+Hombre,tt0061770,1967,Paul Newman,Male,United States,driver
+2001: A Space Odyssey,tt0062622,1968,Keir Dullea,Male,United States,dr.
+Psycho,tt0054215,1960,Anthony Perkins,Male,United States,proprietor
+Willy Wonka & the Chocolate Factory,tt0067992,1971,Gene Wilder,Male,United States,tinker
+Carrie,tt0074285,1976,Sissy Spacek,Female,United States,senior
+Young Frankenstein,tt0072431,1974,Gene Wilder,Male,United States,dr.
+Once Upon a Time in the West,tt0064116,1968,Claudia Cardinale,Female,United States,prostitute
+Smokey and the Bandit,tt0076729,1977,Burt Reynolds,Male,United States,sheriff
+The Warriors,tt0080120,1979,Michael Beck,Male,United States,leader
+Deliverance,tt0068473,1972,Jon Voight,Male,United States,mountain man
+Mary Poppins,tt0058331,1964,Julie Andrews,Female,United States,banker
+Love Story,tt0066011,1970,Ali MacGraw,Female,United States,teacher
+The Texas Chain Saw Massacre,tt0072271,1974,Marilyn Burns,Female,United States,driver
+Soylent Green,tt0070723,1973,Charlton Heston,Male,United States,detective
+Dirty Harry,tt0066999,1971,Clint Eastwood,Male,United States,inspector
+My Fair Lady,tt0058385,1964,Audrey Hepburn,Female,United States,professor
+El Dorado,tt0061619,1966,John Wayne,Male,United States,sheriff
+Three Days of the Condor,tt0073802,1975,Robert Redford,Male,United States,turner
+Cleopatra,tt0056937,1963,Elizabeth Taylor,Female,United States,queen
+The Outlaw Josey Wales,tt0075029,1976,Clint Eastwood,Male,United States,farmer
+Magnum Force,tt0070355,1973,Clint Eastwood,Male,United States,vigilante
+Promises in the Dark,tt0079757,1979,Marsha Mason,Female,United States,dr.
+All That Jazz,tt0078754,1979,Roy Scheider,Male,United States,dancer
+The Detective,tt0062883,1968,Frank Sinatra,Male,United States,detective
+The Long Goodbye,tt0070334,1973,Elliott Gould,Male,United States,investigator
+Walking Tall,tt0070895,1973,Joe Don Baker,Male,United States,sheriff
+Hair,tt0079261,1979,John Savage,Male,United States,hooper
+Grand Prix,tt0060472,1966,James Garner,Male,United States,driver
+Funny Girl,tt0062994,1968,Barbra Streisand,Female,United States,entertainer
+The Enforcer,tt0074483,1976,Clint Eastwood,Male,United States,inspector
+The Great Race,tt0059243,1965,Jack Lemmon,Male,United States,professor
+Dr. Strange,tt0077469,1978,Peter Hooten,Male,United States,dr.
+The Muppet Movie,tt0079588,1979,Jim Henson,Male,United States,dr.
+"Hello, Dolly!",tt0064418,1969,Barbra Streisand,Female,United States,matchmaker
+The Cowboys,tt0068421,1972,John Wayne,Male,United States,rancher
+Blue Hawaii,tt0054692,1961,Elvis Presley,Male,United States,tour guide
+The Driver,tt0077474,1978,Ryan O'Neal,Male,United States,driver
+Mahogany,tt0073335,1975,Diana Ross,Female,United States,designer
+Guns of Diablo,tt0058167,1964,Charles Bronson,Male,United States,scout
+Lifeguard,tt0074798,1976,Sam Elliott,Male,United States,lifeguard
+Coma,tt0077355,1978,Geneviève Bujold,Female,United States,dr.
+Flesh Gordon,tt0068595,1974,Jason Williams,Male,United States,player
+Cinderella,tt0057950,1965,Ginger Rogers,Female,United States,queen
+Hooper,tt0077696,1978,Burt Reynolds,Male,United States,hooper
+The Love Bug,tt0064603,1968,Dean Jones,Male,United States,driver
+The Comancheros,tt0054757,1961,John Wayne,Male,United States,cutter
+High Anxiety,tt0076141,1977,Mel Brooks,Male,United States,dr.
+Colossus: The Forbin Project,tt0064177,1970,Eric Braeden,Male,United States,dr.
+Girls! Girls! Girls!,tt0056023,1962,Elvis Presley,Male,United States,carpenter
+Let's Make Love,tt0054022,1960,Marilyn Monroe,Female,United States,actor
+Coogan's Bluff,tt0062824,1968,Clint Eastwood,Male,United States,deputy sheriff
+The Night of the Iguana,tt0058404,1964,Richard Burton,Male,United States,dr.
+Act of Vengeance,tt0072067,1974,Jo Ann Harris,Female,United States,shoemaker
+Sweet Charity,tt0065054,1969,Shirley MacLaine,Female,United States,dancer
+Damnation Alley,tt0075909,1977,Jan-Michael Vincent,Male,United States,tanner
+X: The Man with the X-Ray Eyes,tt0057693,1963,Ray Milland,Male,United States,dr.
+The Island of Dr. Moreau,tt0076210,1977,Burt Lancaster,Male,United States,dr.
+The Champ,tt0078950,1979,Jon Voight,Male,United States,boxer
+Blood for Dracula,tt0071233,1974,Joe Dallesandro,Male,United States,servant
+Marlowe,tt0064638,1969,James Garner,Male,United States,detective
+Beach Red,tt0061389,1967,Cornel Wilde,Male,United States,narrator
+This Property Is Condemned,tt0061089,1966,Natalie Wood,Female,United States,official
+Torn Curtain,tt0061107,1966,Paul Newman,Male,United States,professor
+The Legend of Boggy Creek,tt0068837,1972,Vern Stierman,Male,United States,narrator
+Gargoyles,tt0068622,1972,Cornel Wilde,Male,United States,dr.
+How the Grinch Stole Christmas!,tt0060345,1966,Boris Karloff,Male,United States,narrator
+Harper,tt0060490,1966,Paul Newman,Male,United States,investigator
+Change of Habit,tt0065537,1969,Elvis Presley,Male,United States,dr.
+McHale's Navy,tt0058336,1964,Ernest Borgnine,Male,United States,commander
+The Internecine Project,tt0071663,1974,James Coburn,Male,United States,professor
+Lolly-Madonna XXX,tt0070332,1973,Rod Steiger,Male,United States,feather
+Becket,tt0057877,1964,Richard Burton,Male,United States,king
+Super Fly,tt0069332,1972,Ron O'Neal,Male,United States,dealer
+Beach Party,tt0056860,1963,Robert Cummings,Male,United States,prof.
+Our Man Flint,tt0059557,1966,James Coburn,Male,United States,agent
+Back to the Future,tt0088763,1985,Michael J. Fox,Male,United States,scientist
+Saving Private Ryan,tt0120815,1998,Tom Hanks,Male,United States,miller
+Se7en,tt0114369,1995,Morgan Freeman,Male,United States,detective
+Schindler's List,tt0108052,1993,Liam Neeson,Male,United States,industrialist
+Indiana Jones and the Raiders of the Lost Ark,tt0082971,1981,Harrison Ford,Male,United States,archaeologist
+Star Wars: Episode V - The Empire Strikes Back,tt0080684,1980,Mark Hamill,Male,United States,hunter
+Aliens,tt0090605,1986,Sigourney Weaver,Female,United States,officer
+Real Genius,tt0089886,1985,Val Kilmer,Male,United States,knight
+Waterworld,tt0114898,1995,Kevin Costner,Male,United States,mariner
+Twister,tt0117998,1996,Helen Hunt,Female,United States,dr.
+"Girl, Interrupted",tt0172493,1999,Winona Ryder,Female,United States,writer
+Batman Forever,tt0112462,1995,Val Kilmer,Male,United States,acrobat
+Clueless,tt0112697,1995,Alicia Silverstone,Female,United States,matchmaker
+Dead Poets Society,tt0097165,1989,Robin Williams,Male,United States,teacher
+Police Academy,tt0087928,1984,Steve Guttenberg,Male,United States,cadet
+Toy Story 2,tt0120363,1999,Tom Hanks,Male,United States,collector
+Fargo,tt0116282,1996,William H. Macy,Male,United States,salesman
+Sixteen Candles,tt0088128,1984,Molly Ringwald,Female,United States,baker
+The Mask,tt0110475,1994,Jim Carrey,Male,United States,clerk
+The Fugitive,tt0106977,1993,Harrison Ford,Male,United States,dr.
+Batman & Robin,tt0118688,1997,Arnold Schwarzenegger,Male,United States,dr.
+Batman Returns,tt0103776,1992,Michael Keaton,Male,United States,employee
+Face/Off,tt0119094,1997,John Travolta,Male,United States,archer
+GoldenEye,tt0113189,1995,Pierce Brosnan,Male,United States,agent
+Hard to Kill,tt0099739,1990,Steven Seagal,Male,United States,detective
+Field of Dreams,tt0097351,1989,Kevin Costner,Male,United States,farmer
+Hard Eight,tt0119256,1996,Philip Baker Hall,Male,United States,gambler
+Blade,tt0120611,1998,Wesley Snipes,Male,United States,hunter
+The Untouchables,tt0094226,1987,Kevin Costner,Male,United States,agent
+Event Horizon,tt0119081,1997,Laurence Fishburne,Male,United States,miller
+Adventures in Babysitting,tt0092513,1987,Elisabeth Shue,Female,United States,sitter
+RoboCop,tt0093870,1987,Peter Weller,Male,United States,officer
+The Doors,tt0101761,1991,Val Kilmer,Male,United States,composer
+Wild at Heart,tt0100935,1990,Nicolas Cage,Male,United States,sailor
+This Is Spinal Tap,tt0088258,1984,Rob Reiner,Male,United States,film director
+Deep Impact,tt0120647,1998,Robert Duvall,Male,United States,tanner
+The Blues Brothers,tt0080455,1980,Tom Erhart,Male,United States,guard
+Witness,tt0090329,1985,Harrison Ford,Male,United States,detective
+Austin Powers: International Man of Mystery,tt0118655,1997,Mike Myers,Male,United States,dr.
+Raging Bull,tt0081398,1980,Robert De Niro,Male,United States,boxer
+A View to a Kill,tt0090264,1985,Roger Moore,Male,United States,industrialist
+Robin Hood: Prince of Thieves,tt0102798,1991,Kevin Costner,Male,United States,sheriff
+The World Is Not Enough,tt0143145,1999,Pierce Brosnan,Male,United States,heiress
+Austin Powers: The Spy Who Shagged Me,tt0145660,1999,Mike Myers,Male,United States,dr.
+Congo,tt0112715,1995,Laura Linney,Female,United States,dr.
+The Cable Guy,tt0115798,1996,Jim Carrey,Male,United States,designer
+Gia,tt0123865,1998,Angelina Jolie,Female,United States,fashion model
+Return to Oz,tt0089908,1985,Fairuza Balk,Female,United States,king
+Mighty Morphin Power Rangers: The Movie,tt0113820,1995,Karan Ashley,Female,United States,ranger
+The Man in the Iron Mask,tt0120744,1998,Leonardo DiCaprio,Male,United States,king
+Jawbreaker,tt0155776,1999,Alexandra Adi,Female,United States,cheerleader
+The Bodyguard,tt0103855,1992,Kevin Costner,Male,United States,farmer
+Moonstruck,tt0093565,1987,Cher,Female,United States,bookkeeper
+The Land Before Time,tt0095489,1988,Pat Hingle,Male,United States,narrator
+Kiss the Girls,tt0119468,1997,Morgan Freeman,Male,United States,dr.
+Twin Peaks: Fire Walk with Me,tt0105665,1992,Sheryl Lee,Female,United States,resident
+Can't Buy Me Love,tt0092718,1987,Patrick Dempsey,Male,United States,miller
+Powder,tt0114168,1995,Mary Steenburgen,Female,United States,psychologist
+In the Line of Fire,tt0107206,1993,Clint Eastwood,Male,United States,agent
+Down Periscope,tt0116130,1996,Kelsey Grammer,Male,United States,commander
+The Elephant Man,tt0080678,1980,Anthony Hopkins,Male,United States,dr.
+Hardbodies,tt0087385,1984,Grant Cramer,Male,United States,surfer
+Tank Girl,tt0114614,1995,Lori Petty,Female,United States,mechanic
+Jacob's Ladder,tt0099871,1990,Tim Robbins,Male,United States,singer
+Urban Legend,tt0146336,1998,Jared Leto,Male,United States,gardener
+Sleepaway Camp,tt0086320,1983,Felissa Rose,Female,United States,baker
+Village of the Damned,tt0114852,1995,Christopher Reeve,Male,United States,dr.
+Color of Night,tt0109456,1994,Bruce Willis,Male,United States,dr.
+The Dark Wind,tt0101664,1991,Lance Baker,Male,United States,archer
+My Best Friend's Wedding,tt0119738,1997,Julia Roberts,Female,United States,potter
+Wolf,tt0111742,1994,Jack Nicholson,Male,United States,publisher
+Tarzan the Ape Man,tt0083170,1981,Bo Derek,Female,United States,porter
+Patriot Games,tt0105112,1992,Harrison Ford,Male,United States,analyst
+The American President,tt0112346,1995,Michael Douglas,Male,United States,shepherd
+The Remains of the Day,tt0107943,1993,John Haycraft,Male,United States,auctioneer
+Clear and Present Danger,tt0109444,1994,Harrison Ford,Male,United States,analyst
+Babe,tt0112431,1995,Christine Cavanaugh,Female,United States,farmer
+Sister Act 2: Back in the Habit,tt0108147,1993,Whoopi Goldberg,Female,United States,showgirl
+The Bridges of Madison County,tt0112579,1995,Clint Eastwood,Male,United States,photographer
+Working Girl,tt0096463,1988,Harrison Ford,Male,United States,trainer
+The Haunting,tt0171363,1999,Liam Neeson,Male,United States,dr.
+Bio-Dome,tt0115683,1996,William Atherton,Male,United States,dr.
+The Adventures of Buckaroo Banzai Across the 8th Dimension,tt0086856,1984,Peter Weller,Male,United States,musician
+La Bamba,tt0093378,1987,Lou Diamond Phillips,Male,United States,singer
+Henry: Portrait of a Serial Killer,tt0099763,1986,Mary Demas,Male,United States,prostitute
+American Psycho,tt0144084,2000,Christian Bale,Male,United States,executive
+Casino Royale,tt0381061,2006,Daniel Craig,Male,United States,agent
+The Devil Wears Prada,tt0458352,2006,Meryl Streep,Female,United States,assistant
+Iron Man,tt0371746,2008,Robert Downey Jr.,Male,United States,engineer
+"10,000 BC",tt0443649,2008,Steven Strait,Male,United States,hunter
+The Fast and the Furious,tt0232500,2001,Paul Walker,Male,United States,officer
+Knowing,tt0448011,2009,Nicolas Cage,Male,United States,professor
+Untraceable,tt0880578,2008,Diane Lane,Female,United States,agent
+Spider-Man 2,tt0316654,2004,Tobey Maguire,Male,United States,doctor
+Coyote Ugly,tt0200550,2000,Piper Perabo,Female,United States,songwriter
+The Princess Diaries,tt0247638,2001,Julie Andrews,Female,United States,queen
+The Day After Tomorrow,tt0319262,2004,Dennis Quaid,Male,United States,paleoclimatologist
+Legally Blonde,tt0250494,2001,Reese Witherspoon,Female,United States,queen
+Waiting...,tt0348333,2005,Ryan Reynolds,Male,United States,restaurant
+Live Free or Die Hard,tt0337978,2007,Bruce Willis,Male,United States,master
+Hitman,tt0465494,2007,Timothy Olyphant,Male,United States,agent
+Blood Diamond,tt0450259,2006,Leonardo DiCaprio,Male,United States,archer
+Monster,tt0340855,2003,Charlize Theron,Female,United States,prostitute
+Gangs of New York,tt0217505,2002,Leonardo DiCaprio,Male,United States,butcher
+Angels & Demons,tt0808151,2009,Tom Hanks,Male,United States,physicist
+Sherlock Holmes,tt0988045,2009,Robert Downey Jr.,Male,United States,detective
+Hannibal,tt0212985,2001,Anthony Hopkins,Male,United States,dr.
+The Room,tt0368226,2003,Tommy Wiseau,Male,United States,executive
+The Pursuit of Happyness,tt0454921,2006,Will Smith,Male,United States,gardner
+Shrek 2,tt0298148,2004,Mike Myers,Male,United States,king
+Underworld,tt0320691,2003,Kate Beckinsale,Female,United States,warrior
+The Matrix Reloaded,tt0234215,2003,Ray Anthony,Male,United States,guard
+Chicago,tt0299658,2002,Taye Diggs,Male,United States,bandleader
+2 Fast 2 Furious,tt0322259,2003,Paul Walker,Male,United States,racer
+Just Like Heaven,tt0425123,2005,Reese Witherspoon,Female,United States,dr.
+She's the Man,tt0454945,2006,Amanda Bynes,Female,United States,player
+School of Rock,tt0332379,2003,Jack Black,Male,United States,teacher
+The Guardian,tt0406816,2006,Kevin Costner,Male,United States,swimmer
+The Aviator,tt0338751,2004,Leonardo DiCaprio,Male,United States,aviator
+Coach Carter,tt0393162,2005,Samuel L. Jackson,Male,United States,coach
+Ocean's Thirteen,tt0496806,2007,George Clooney,Male,United States,casino owner
+Charlie's Angels,tt0160127,2000,Cameron Diaz,Female,United States,cook
+Up in the Air,tt1193138,2009,George Clooney,Male,United States,model
+Evolution,tt0251075,2001,David Duchovny,Male,United States,dr.
+Austin Powers in Goldmember,tt0295178,2002,Mike Myers,Male,United States,dr.
+Marie Antoinette,tt0422720,2006,Kirsten Dunst,Female,United States,queen
+Friday the 13th,tt0758746,2009,Jared Padalecki,Male,United States,miller
+A Series of Unfortunate Events,tt0339291,2004,Jim Carrey,Male,United States,dr.
+Walk Hard: The Dewey Cox Story,tt0841046,2007,Nat Faxon,Male,United States,manager
+Friday Night Lights,tt0390022,2004,Billy Bob Thornton,Male,United States,coach
+Zack and Miri Make a Porno,tt1007028,2008,Elizabeth Banks,Female,United States,grade
+Funny People,tt1201167,2009,Adam Sandler,Male,United States,comedian
+John Q,tt0251160,2002,Gabriela Oltean,Male,United States,driver
+Walking Tall,tt0351977,2004,Michael Bowen,Male,United States,sheriff
+The Polar Express,tt0338348,2004,Tom Hanks,Male,United States,conductor
+The Man from Earth,tt0756683,2007,David Lee Smith,Male,United States,scholar
+The Scorpion King,tt0277296,2002,Dwayne Johnson,Male,United States,king
+Nanny McPhee,tt0396752,2005,Emma Thompson,Female,United States,nanny
+Anger Management,tt0305224,2003,Adam Sandler,Male,United States,instructor
+Speed Racer,tt0811080,2008,Emile Hirsch,Male,United States,racer
+Rush Hour 3,tt0293564,2007,Chris Tucker,Male,United States,ambassador
+Shrek the Third,tt0413267,2007,Mike Myers,Male,United States,king
+Step Up,tt0462590,2006,Channing Tatum,Male,United States,dancer
+Team America: World Police,tt0372588,2004,Trey Parker,Male,United States,penn
+The Brown Bunny,tt0330099,2003,Vincent Gallo,Male,United States,racer
+Get Smart,tt0425061,2008,Steve Carell,Male,United States,intellectual
+Frida,tt0120679,2002,Salma Hayek,Female,United States,artist
+Ray,tt0350258,2004,Jamie Foxx,Male,United States,musician
+Spy Game,tt0266987,2001,Robert Redford,Male,United States,agent
+Night at the Museum: Battle of the Smithsonian,tt1078912,2009,Ben Stiller,Male,United States,security guard
+Along Came a Spider,tt0164334,2001,Morgan Freeman,Male,United States,detective
+The Forbidden Kingdom,tt0865556,2008,Jet Li,Male,United States,king
+Kinsey,tt0362269,2004,Liam Neeson,Male,United States,pioneer
+The Glass House,tt0221218,2001,Leelee Sobieski,Female,United States,baker
+Saw II,tt0432348,2005,Tobin Bell,Male,United States,detective
+Swordfish,tt0244244,2001,John Travolta,Male,United States,hacker
+Space Cowboys,tt0186566,2000,Clint Eastwood,Male,United States,engineer
+The Queen,tt0436697,2006,Helen Mirren,Female,United States,queen
+The Young Victoria,tt0962736,2009,Emily Blunt,Female,United States,queen
+Men of Honor,tt0203019,2000,Robert De Niro,Male,United States,master
+Elektra,tt0357277,2005,Jennifer Garner,Female,United States,warrior
+Jersey Girl,tt0300051,2004,Betty Aberlin,Female,United States,teacher
+Milk,tt1013753,2008,Sean Penn,Male,United States,official
+Charlie's Angels: Full Throttle,tt0305357,2003,Cameron Diaz,Female,United States,cook
+"Crazy, Stupid, Love.",tt1570728,2011,Steve Carell,Male,United States,weaver
+Black Swan,tt0947798,2010,Natalie Portman,Female,United States,queen
+Prometheus,tt1446714,2012,Noomi Rapace,Female,United States,dr.
+Captain America: The First Avenger,tt0458339,2011,Chris Evans,Male,United States,soldier
+The Girl with the Dragon Tattoo,tt1568346,2011,Daniel Craig,Male,United States,journalist
+The Fighter,tt0964517,2010,Mark Wahlberg,Male,United States,boxer
+RED,tt1245526,2010,Bruce Willis,Male,United States,agent
+Silver Linings Playbook,tt1045658,2012,Bradley Cooper,Male,United States,teacher
+21 Jump Street,tt1232829,2012,Jonah Hill,Male,United States,officer
+The Last Airbender,tt0938283,2010,Noah Ringer,Male,United States,master
+Cloud Atlas,tt1371111,2012,Tom Hanks,Male,United States,dr.
+Snow White and the Huntsman,tt1735898,2012,Kristen Stewart,Female,United States,queen
+Green Lantern,tt1133985,2011,Ryan Reynolds,Male,United States,test pilot
+Men in Black 3,tt1409024,2012,Will Smith,Male,United States,agent
+Kung Fu Panda 2,tt1302011,2011,Jack Black,Male,United States,warrior
+The Woman in Black,tt1596365,2012,Emma Shorey,Male,United States,fisher
+One Day,tt1563738,2011,Anne Hathaway,Female,United States,writer
+The Hangover Part II,tt1411697,2011,Bradley Cooper,Male,United States,bachelor
+Soul Surfer,tt1596346,2011,AnnaSophia Robb,Female,United States,surfer
+Sherlock Holmes: A Game of Shadows,tt1515091,2011,Robert Downey Jr.,Male,United States,professor
+Savages,tt1615065,2012,Blake Lively,Female,United States,sage
+Now & Later,tt0865560,2011,Keller Wortham,Male,United States,banker
+The Thing,tt0905372,2011,Mary Elizabeth Winstead,Female,United States,scientist
+Due Date,tt1231583,2010,Robert Downey Jr.,Male,United States,actor
+Devil,tt1314655,2010,Chris Messina,Male,United States,detective
+The Sorcerer's Apprentice,tt0963966,2010,Nicolas Cage,Male,United States,apprentice
+My Week with Marilyn,tt1655420,2011,Michelle Williams,Female,United States,showgirl
+Flipped,tt0817177,2010,Madeline Carroll,Female,United States,baker
+Safety Not Guaranteed,tt1862079,2012,Aubrey Plaza,Female,United States,stock clerk
+Ghost Rider: Spirit of Vengeance,tt1071875,2011,Nicolas Cage,Male,United States,rider
+The Descendants,tt1033575,2011,George Clooney,Male,United States,king
+The Guilt Trip,tt1694020,2012,Barbra Streisand,Female,United States,brewster
+Threat Level Midnight: The Movie,tt11620828,2019,Steve Carell,Male,United States,agent
+Unknown,tt1401152,2011,Liam Neeson,Male,United States,dr.
+The First Time,tt1763303,2012,Britt Robertson,Female,United States,miller
+Fright Night,tt1438176,2011,Anton Yelchin,Male,United States,brewster
+Red Riding Hood,tt1486185,2011,Amanda Seyfried,Female,United States,hunter
+Faster,tt1433108,2010,Dwayne Johnson,Male,United States,driver
+Mirror Mirror,tt1667353,2012,Julia Roberts,Female,United States,queen
+Letters to Juliet,tt0892318,2010,Amanda Seyfried,Female,United States,writer
+Liberal Arts,tt1872818,2012,Josh Radnor,Male,United States,fisher
+The Green Hornet,tt0990407,2011,Seth Rogen,Male,United States,assistant
+Underworld: Awakening,tt1496025,2012,Kate Beckinsale,Female,United States,warrior
+Tooth Fairy,tt0808510,2010,Dwayne Johnson,Male,United States,player
+The Last Song,tt1294226,2010,Miley Cyrus,Female,United States,miller
+Secretariat,tt1028576,2010,Diane Lane,Female,United States,guide
+Frankenweenie,tt1142977,2012,Catherine O'Hara,Female,United States,teacher
+Gulliver's Travels,tt1320261,2010,Jack Black,Male,United States,writer
+The Man with the Iron Fists,tt1258972,2012,RZA,Male,United States,blacksmith
+The Debt,tt1226753,2010,Helen Mirren,Female,United States,singer
+The Raven,tt1486192,2012,John Cusack,Male,United States,detective
+Don't Be Afraid of the Dark,tt1270761,2010,Bruce Gleeson,Male,United States,driver
+Alex Cross,tt1712170,2012,Tyler Perry,Male,United States,dr.
+The Bunny Game,tt1522846,2011,Rodleen Getsic,Female,United States,prostitute
+I'm Still Here,tt1356864,2010,Joaquin Phoenix,Male,United States,career
+Attack of the 50 Foot Cheerleader,tt2098627,2012,Jena Sims,Female,United States,cheerleader
+Paranormal Activity 4,tt2109184,2012,Katie Featherston,Female,United States,hunter
+Trespass,tt1674784,2011,Nicolas Cage,Male,United States,miller
+Joyful Noise,tt1710396,2012,Queen Latifah,Female,United States,director
+Promised Land,tt2091473,2012,Matt Damon,Male,United States,butler
+To the Wonder,tt1595656,2012,Ben Affleck,Male,United States,pastor
+Dolphin Tale,tt1564349,2011,Harry Connick Jr.,Male,United States,dr.
+Company,tt1942831,2011,Neil Patrick Harris,Male,United States,bachelor
+Arbitrage,tt1764183,2012,Richard Gere,Male,United States,miller
+The Resident,tt1334102,2011,Hilary Swank,Female,United States,dr.
+Atlas Shrugged: Part I,tt0480239,2011,Taylor Schilling,Female,United States,executive
+Bereavement,tt1100051,2010,Michael Biehn,Male,United States,miller
+I Don't Know How She Does It,tt1742650,2011,Sarah Jessica Parker,Female,United States,executive
+Fred: The Movie,tt1595842,2010,Lucas Cruikshank,Male,United States,singer
+Game Change,tt1848902,2012,Julianne Moore,Female,United States,mate
+Sharktopus,tt1619880,2010,Eric Roberts,Male,United States,dr.
+Lake Placid: The Final Chapter,tt2117905,2012,Elisabeth Röhm,Female,United States,sheriff
+Hemingway & Gellhorn,tt0423455,2012,Nicole Kidman,Female,United States,correspondent
+Secret of the Wings,tt1217213,2012,Mae Whitman,Female,United States,tinker
+Lay the Favorite,tt1132449,2012,Rebecca Hall,Female,United States,dancer
+Flypaper,tt1541160,2011,Patrick Dempsey,Male,United States,teller
+Jesse Stone: Benefit of the Doubt,tt2004262,2012,Tom Selleck,Male,United States,officer
+Breaking the Girls,tt1510686,2012,Sam Anderson,Male,United States,professor
+Rags,tt1910605,2012,Keke Palmer,Female,United States,superstar
+Burn Notice: The Fall of Sam Axe,tt1697851,2011,Bruce Campbell,Male,United States,commander
+Detention,tt1701990,2011,Alison Woods,Male,United States,fisher
+Higher Ground,tt1562568,2011,Joshua Leonard,Male,United States,miller
+Madea's Witness Protection,tt2215285,2012,Tyler Perry,Male,United States,banker
+Showgirls 2: Penny's from Heaven,tt1693110,2011,Rena Riffel,Female,United States,dancer
+Letters to God,tt1462054,2010,Lisa Curtis,Male,United States,miller
+Moonrise Kingdom: Animated Book Short,tt3707014,2012,Bob Balaban,Male,United States,narrator
+Division III: Football's Finest,tt1562849,2011,Andy Dick,Male,United States,head coach
+"A Fairly Odd Movie: Grow Up, Timmy Turner!",tt1696192,2011,Drake Bell,Male,United States,turner
+Girl in Progress,tt1817676,2012,Eva Mendes,Female,United States,doctor
+The Danish Girl,tt0810819,2015,Alicia Vikander,Female,United States,pioneer
+Frozen,tt2294629,2013,Kristen Bell,Female,United States,mountain man
+Minions,tt2293640,2015,Sandra Bullock,Female,United States,inventor
+Iron Man 3,tt1300854,2013,Robert Downey Jr.,Male,United States,mandarin
+Dallas Buyers Club,tt0790636,2013,Matthew McConaughey,Male,United States,electrician
+American Sniper,tt2179136,2014,Bradley Cooper,Male,United States,sniper
+Magic Mike XXL,tt2268016,2015,Channing Tatum,Male,United States,stripper
+Lucy,tt2872732,2014,Scarlett Johansson,Female,United States,miller
+Burnt,tt2503944,2015,Bradley Cooper,Male,United States,career
+Lone Survivor,tt1091191,2013,Mark Wahlberg,Male,United States,officer
+Gravity,tt1454468,2013,Sandra Bullock,Female,United States,dr.
+Hercules,tt1267297,2014,Dwayne Johnson,Male,United States,king
+Solace,tt1291570,2015,Anthony Hopkins,Male,United States,dr.
+Big Eyes,tt1126590,2014,Amy Adams,Female,United States,painter
+Exodus: Gods and Kings,tt1528100,2014,Christian Bale,Male,United States,leader
+"Hello, My Name Is Doris",tt3766394,2015,Sally Field,Female,United States,miller
+The Judge,tt1872194,2014,Robert Downey Jr.,Male,United States,lawyer
+Texas Chainsaw,tt1572315,2013,Alexandra Daddario,Female,United States,miller
+Machete Kills,tt2002718,2013,Danny Trejo,Male,United States,dealer
+Lee Daniels' The Butler,tt1327773,2013,Forest Whitaker,Male,United States,butler
+22 Jump Street,tt2294449,2014,Jonah Hill,Male,United States,officer
+RoboCop,tt1234721,2014,Joel Kinnaman,Male,United States,officer
+The Interview,tt2788710,2014,James Franco,Male,United States,producer
+The Call,tt1911644,2013,Halle Berry,Female,United States,turner
+A Walk Among the Tombstones,tt0365907,2014,Liam Neeson,Male,United States,investigator
+The Hangover Part III,tt1951261,2013,Bradley Cooper,Male,United States,bodyguard
+21 & Over,tt1711425,2013,Miles Teller,Male,United States,miller
+Concussion,tt3322364,2015,Will Smith,Male,United States,dr.
+Seventh Son,tt1121096,2014,Jeff Bridges,Male,United States,master
+Still Alice,tt3316960,2014,Julianne Moore,Female,United States,dr.
+RED 2,tt1821694,2013,Bruce Willis,Male,United States,agent
+Far from the Madding Crowd,tt2935476,2015,Carey Mulligan,Female,United States,bachelor
+Suite Française,tt0900387,2014,Michelle Williams,Female,United States,soldier
+Joy,tt2446980,2015,Jennifer Lawrence,Female,United States,founder
+The Gambler,tt2039393,2014,Mark Wahlberg,Male,United States,professor
+Penguins of Madagascar,tt1911658,2014,Tom McGrath,Male,United States,skipper
+True Story,tt2273657,2015,Jonah Hill,Male,United States,reporter
+The Walk,tt3488710,2015,Joseph Gordon-Levitt,Male,United States,artist
+Selma,tt1020072,2014,David Oyelowo,Male,United States,dr.
+Cleveland Abduction,tt4262142,2015,Taryn Manning,Female,United States,knight
+The Hundred-Foot Journey,tt2980648,2014,Helen Mirren,Female,United States,madam
+Afternoon Delight,tt2312890,2013,Kathryn Hahn,Female,United States,nanny
+"McFarland, USA",tt2097298,2015,Kevin Costner,Male,United States,coach
+Behind the Candelabra,tt1291580,2013,Matt Damon,Male,United States,singer
+Playing It Cool,tt2139555,2014,Chris Evans,Male,United States,narrator
+Ithaca,tt3501590,2015,Alex Neustaedter,Male,United States,messenger
+Broken City,tt1235522,2013,Mark Wahlberg,Male,United States,mayor
+Barely Lethal,tt1731701,2015,Jaime King,Female,United States,analyst
+Cop Car,tt3813310,2015,Kevin Bacon,Male,United States,sheriff
+Devil's Pass,tt1905040,2013,Holly Goss,Male,United States,king
+The Legend of Hercules,tt1043726,2014,Kellan Lutz,Male,United States,king
+Twin Peaks: The Missing Pieces,tt5334704,2014,Chris Isaak,Male,United States,special agent
+99 Homes,tt2891174,2014,Michael Shannon,Male,United States,carver
+The Little Prince,tt1754656,2015,Jeff Bridges,Male,United States,aviator
+When the Game Stands Tall,tt2247476,2014,Jim Caviezel,Male,United States,coach
+Strange Magic,tt4191054,2015,Alan Cumming,Male,United States,king
+God's Not Dead,tt2528814,2014,Kevin Sorbo,Male,United States,professor
+All American Bikini Car Wash,tt3820450,2015,Jack Cullison,Male,United States,miller
+Sexipede!,tt3459674,2014,Christine Nguyen,Female,United States,doctor
+In Your Eyes,tt2101569,2014,Michael Stahl-David,Male,United States,porter
+Lap Dance,tt2392385,2014,Omari Hardwick,Male,United States,cook
+Tarzan,tt1705952,2013,Kellan Lutz,Male,United States,porter
+Queen of the Desert,tt1837636,2015,Nicole Kidman,Female,United States,writer
+13 Sins,tt2059171,2014,Mark Webber,Male,United States,salesman
+Madame Bovary,tt2334733,2014,Mia Wasikowska,Female,United States,doctor
+G.B.F.,tt2429074,2013,Michael J. Willett,Male,United States,tanner
+Beyond the Lights,tt3125324,2014,Gugu Mbatha-Raw,Female,United States,superstar
+Demonic,tt1841642,2015,Maria Bello,Female,United States,dr.
+Dying of the Light,tt1274586,2014,Nicolas Cage,Male,United States,career
+All Roads Lead to Rome,tt4119278,2015,Sarah Jessica Parker,Female,United States,teacher
+Truth,tt3859076,2015,Cate Blanchett,Female,United States,producer
+Teen Beach 2,tt3764966,2015,Ross Lynch,Male,United States,biker
+Extraction,tt4382872,2015,Bruce Willis,Male,United States,turner
+Morbius: The Living Vampire,tt4227392,2014,Adam Michaels,Male,United States,dr.
+Dolphin Tale 2,tt2978462,2014,Harry Connick Jr.,Male,United States,dr.
+Teacher of the Year,tt2076346,2014,Matt Letscher,Male,United States,teacher
+The Program,tt3083008,2015,Ben Foster,Male,United States,journalist
+I Am Michael,tt3713030,2015,James Franco,Male,United States,pastor
+Baywatch,tt1469304,2017,Dwayne Johnson,Male,United States,lifeguard
+Deadpool 2,tt5463162,2018,Ryan Reynolds,Male,United States,mercenary
+Arrival,tt2543164,2016,Amy Adams,Female,United States,dr.
+Wonder Woman,tt0451279,2017,Gal Gadot,Female,United States,warrior
+Coco,tt2380307,2017,Anthony Gonzalez,Male,United States,musician
+Molly's Game,tt4209788,2017,Jessica Chastain,Female,United States,skier
+The Neon Demon,tt1974419,2016,Elle Fanning,Female,United States,model
+Ghostbusters,tt1289401,2016,Zach Woods,Male,United States,tour guide
+Sorry to Bother You,tt5688932,2018,LaKeith Stanfield,Male,United States,telemarketer
+Mandy,tt6998518,2018,Nicolas Cage,Male,United States,miller
+Red Sparrow,tt2873282,2018,Jennifer Lawrence,Female,United States,ballerina
+The Favourite,tt5083738,2018,Olivia Colman,Female,United States,queen
+The Babysitter,tt4225622,2017,Judah Lewis,Male,United States,sitter
+Manchester by the Sea,tt4034228,2016,Casey Affleck,Male,United States,chandler
+The Shallows,tt4052882,2016,Blake Lively,Female,United States,surfer
+Bleed for This,tt1620935,2016,Miles Teller,Male,United States,boxer
+BlacKkKlansman,tt7349662,2018,Alec Baldwin,Male,United States,dr.
+Phantom Thread,tt5776858,2017,Vicky Krieps,Female,United States,muse
+The Nightingale,tt4068576,2018,Aisling Franciosi,Female,United States,officer
+"I, Tonya",tt5580036,2017,Margot Robbie,Female,United States,skater
+The Founder,tt4276820,2016,Michael Keaton,Male,United States,salesman
+The Big Sick,tt5462602,2017,Kumail Nanjiani,Male,United States,comedian
+Death Note,tt1241317,2017,Nat Wolff,Male,United States,turner
+Mary Poppins Returns,tt5028340,2018,Emily Blunt,Female,United States,nanny
+Ghost in the Shell,tt1219827,2017,Scarlett Johansson,Female,United States,soldier
+The Book of Henry,tt4572792,2017,Naomi Watts,Female,United States,carpenter
+Dumplin',tt4878482,2018,Danielle Macdonald,Female,United States,queen
+Gold,tt1800302,2016,Matthew McConaughey,Male,United States,geologist
+The Girl in the Spider's Web,tt5177088,2018,Claire Foy,Female,United States,journalist
+Money Monster,tt2241351,2016,George Clooney,Male,United States,producer
+On the Basis of Sex,tt4669788,2018,Felicity Jones,Female,United States,career
+Underworld: Blood Wars,tt3717252,2016,Kate Beckinsale,Female,United States,dealer
+Sandy Wexler,tt5893332,2017,Adam Sandler,Male,United States,manager
+A Ghost Story,tt6265828,2017,Casey Affleck,Male,United States,musician
+Battle of the Sexes,tt4622512,2017,Emma Stone,Female,United States,king
+Sea Change,tt5661770,2017,Emily Rudd,Female,United States,merchant
+The Saint,tt2569088,2017,Adam Rayner,Male,United States,master
+A Wrinkle in Time,tt1620680,2018,Storm Reid,Female,United States,scientist
+The Happytime Murders,tt1308728,2018,Melissa McCarthy,Female,United States,detective
+Action Point,tt6495770,2018,Johnny Knoxville,Male,United States,carver
+Leatherface,tt2620590,2017,Stephen Dorff,Male,United States,ranger
+Jeepers Creepers III,tt1139592,2017,Stan Shaw,Male,United States,sheriff
+Winchester,tt1072748,2018,Helen Mirren,Female,United States,heiress
+Free State of Jones,tt1124037,2016,Matthew McConaughey,Male,United States,knight
+The Discovery,tt5155780,2017,Robert Redford,Male,United States,dr.
+Detroit,tt5390504,2017,Chris Chalk,Male,United States,officer
+Wild Rose,tt5117428,2018,Jessie Buckley,Female,United States,singer
+My Little Pony: The Movie,tt4131800,2017,Uzo Aduba,Female,United States,queen
+Whiskey Tango Foxtrot,tt3553442,2016,Tina Fey,Female,United States,barker
+Christine,tt4666726,2016,Rebecca Hall,Female,United States,reporter
+Victoria & Abdul,tt5816682,2017,Judi Dench,Female,United States,queen
+211,tt4976192,2018,Nicolas Cage,Male,United States,chandler
+Bully,tt5741008,2018,Tucker Albrizzi,Male,United States,professional boxer
+Elvis & Nixon,tt2093991,2016,Michael Shannon,Male,United States,king
+A-X-L,tt5709188,2018,Alex Neustaedter,Male,United States,companion
+Chuck,tt1610525,2016,Liev Schreiber,Male,United States,boxer
+A Body to Die For,tt8771590,2018,Sunny Mabrey,Female,United States,dr.
+The Convenient Groom,tt5668196,2016,Vanessa Marcil,Female,United States,dr.
+Army of One,tt4382824,2016,Nicolas Cage,Male,United States,construction worker
+Our Kind of Traitor,tt1995390,2016,Carlos Acosta,Male,United States,dancer
+Thunder Road,tt7738450,2018,Jim Cummings,Male,United States,officer
+First They Killed My Father,tt4882376,2017,Sareum Srey Moch,Male,United States,author
+Lightyear,tt10298810,2022,Chris Evans,Male,United States,ranger
+The Unbearable Weight of Massive Talent,tt11291274,2022,Nicolas Cage,Male,United States,agent
+Morbius,tt5108870,2022,Jared Leto,Male,United States,dr.
+The Lost City,tt13320622,2022,Sandra Bullock,Female,United States,sage
+The Adam Project,tt2463208,2022,Ryan Reynolds,Male,United States,fighter
+Avatar: The Way of Water,tt1630029,2022,Michelle Yeoh,Female,United States,dr.
+Don't Look Up,tt11286314,2021,Leonardo DiCaprio,Male,United States,dr.
+Stillwater,tt10696896,2021,Matt Damon,Male,United States,baker
+Buried in Barstow,tt16294738,2022,Angie Harmon,Female,United States,king
+The Irishman,tt1302006,2019,Robert De Niro,Male,United States,hitman
+All the Old Knives,tt3706352,2022,Goksin Erdemli,Male,United States,stewardess
+Jumanji: The Next Level,tt7975244,2019,Dwayne Johnson,Male,United States,dr.
+Ford v Ferrari,tt1950186,2019,Matt Damon,Male,United States,car designer
+The Tomorrow War,tt9777666,2021,Chris Pratt,Male,United States,forester
+Aladdin,tt6139732,2019,Will Smith,Male,United States,mariner
+Respect,tt2452150,2021,Jennifer Hudson,Female,United States,career
+Raya and the Last Dragon,tt5109280,2021,Kelly Marie Tran,Female,United States,warrior
+The Peanut Butter Falcon,tt4364194,2019,Zack Gottsagen,Male,United States,wrestler
+Hitman's Wife's Bodyguard,tt8385148,2021,Ryan Reynolds,Male,United States,bodyguard
+Home Team,tt14592064,2022,Kevin James,Male,United States,head coach
+Soul,tt2948372,2020,Jamie Foxx,Male,United States,gardner
+A Beautiful Day in the Neighborhood,tt3224458,2019,Tom Hanks,Male,United States,journalist
+The Eyes of Tammy Faye,tt9115530,2021,Jessica Chastain,Female,United States,televangelist
+Marriage Story,tt7653254,2019,Adam Driver,Male,United States,barber
+Rumble,tt8337158,2021,Geraldine Viswanathan,Female,United States,superstar
+Long Shot,tt2139881,2019,Charlize Theron,Female,United States,journalist
+Pokémon: Detective Pikachu,tt5884052,2019,Ryan Reynolds,Male,United States,detective
+Color Out of Space,tt5073642,2019,Nicolas Cage,Male,United States,gardner
+The Cursed,tt9907782,2021,Boyd Holbrook,Male,United States,pathologist
+Godzilla: King of the Monsters,tt3741700,2019,Kyle Chandler,Male,United States,dr.
+The Survivor,tt9242528,2021,Ben Foster,Male,United States,boxer
+Greyhound,tt6048922,2020,Tom Hanks,Male,United States,commander
+Bad Boys for Life,tt1502397,2020,Will Smith,Male,United States,detective
+Trolls 2: World Tour,tt6587640,2020,Anna Kendrick,Female,United States,queen
+The Empty Man,tt5867314,2020,James Badge Dale,Male,United States,detective
+Dolittle,tt6673612,2020,Robert Downey Jr.,Male,United States,dr.
+Cheaper by the Dozen,tt6705162,2022,Gabrielle Union,Female,United States,baker
+Freaky,tt10919380,2020,Vince Vaughn,Male,United States,butcher
+Zola,tt5439812,2020,Taylour Paige,Female,United States,stripper
+Richard Jewell,tt3513548,2019,Paul Walter Hauser,Male,United States,security guard
+The Art of Racing in the Rain,tt1478839,2019,Kevin Costner,Male,United States,driver
+WarHunt,tt6442686,2022,Robert Knepper,Male,United States,brewer
+Judy,tt7549996,2019,Renée Zellweger,Female,United States,performer
+Brazen,tt13978306,2022,Alyssa Milano,Female,United States,miller
+Moriah's Lighthouse,tt19951082,2022,Rachelle Lefevre,Female,United States,artisan
+Turbo Cola,tt14186678,2022,Nicholas Stoesser,Male,United States,extra
+The Midnight Sky,tt10539608,2020,George Clooney,Male,United States,scientist
+Falling Inn Love,tt9860728,2019,Christina Milian,Female,United States,contractor
+Swan Song,tt13207508,2021,Mahershala Ali,Male,United States,turner
+The Devil's Light,tt9271672,2022,Virginia Madsen,Female,United States,dr.
+Serenity,tt6476140,2019,Matthew McConaughey,Male,United States,baker
+Swallow,tt8372298,2019,Haley Bennett,Female,United States,hunter
+Lucy in the Sky,tt4682804,2019,Natalie Portman,Female,United States,astronaut
+Spellbound,tt7215232,2022,Nicole Kidman,Female,United States,queen
+The Comeback Trail,tt5420210,2020,Robert De Niro,Male,United States,barber
+Good on Paper,tt8231668,2021,Iliza Shlesinger,Female,United States,singer
+Gasoline Alley,tt14174168,2022,Bruce Willis,Male,United States,detective
+Never Rarely Sometimes Always,tt7772582,2020,Eliazar Jimenez,Male,United States,impersonator
